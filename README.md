@@ -18,3 +18,29 @@
 
 </p>
 
+## <h2 align="center">Herramientas </h2>
+
+<p align="center">
+ <img loading="lazy" src="https://distreau.com/github.svg" 
+  height="45">
+ <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" 
+  height="45">
+ <img loading="lazy" src="https://pluspng.com/img-png/nodejs-logo-png-node-js-development-296.png" 
+  height="45">
+ <img loading="lazy" src="https://www.sommelierdecafe.com/2019/wp-content/uploads/2009/06/java-logo1-1.png" 
+  height="45"> 
+ <img loading="lazy" src="https://materiageek.com/wp-content/uploads/2020/10/GitKraken-7.4.0-Descargar-gratis.png" 
+  height="45">
+ <img loading="lazy" src="https://miro.medium.com/max/650/1*zzvdRmHGGXONZpuQ2FeqsQ.png" 
+  height="45">
+  <img loading="lazy" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" 
+  height="45"> 
+ <img loading="lazy" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" 
+ <img loading="lazy" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" 
+  height="45">
+ <p align="center">
+  <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" 
+  height="45">
+  <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" 
+  height="45">
+ 

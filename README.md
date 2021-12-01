@@ -8,7 +8,7 @@
 - ⚒  **Técnico Superior en Administración y Finanzas** formándome en desarrollo de software.
 - 👷‍♂️ Trabajé muchos años de carpintero de aluminio.
 - 🔭 Aficionado a los deportes del motor, los mercados financieros y las nuevas tecnologías.
-- 💻 **Iniciándome en Java, TypeScript, HTML, CSS, MarkDown, Git, virtualización y MySql.**
+- 💻 **Iniciándome en Java, TypeScript, Kotlin, Maven, JUnit 5, HTML, CSS, MarkDown, Git, GitKraken, GitHub, virtualización y MySql.**
 - 👨‍🎓 Aprendiendo programación de mi tutor https://github.com/joseluisgs
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=frantoribio&label=Profile%20views&color=42b983&style=flat" alt="frantoribio" />
@@ -30,6 +30,8 @@
  <img loading="lazy" src="https://www.sommelierdecafe.com/2019/wp-content/uploads/2009/06/java-logo1-1.png" 
   height="45"> 
  <img loading="lazy" src="https://materiageek.com/wp-content/uploads/2020/10/GitKraken-7.4.0-Descargar-gratis.png" 
+  height="45">
+ <img loading="lazy" src="https://www.enperezzeledon.com/wp-content/uploads/2019/10/1200px-Kotlin-logo.svg_.png" 
   height="45">
  <img loading="lazy" src="https://miro.medium.com/max/650/1*zzvdRmHGGXONZpuQ2FeqsQ.png" 
   height="45">

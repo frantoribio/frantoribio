@@ -8,7 +8,7 @@
 - ⚒  **Técnico Superior en Administración y Finanzas** formándome en desarrollo de software.
 - 👷‍♂️ Trabajé muchos años de carpintero de aluminio.
 - 🔭 Aficionado a los deportes del motor, los mercados financieros y las nuevas tecnologías.
-- 💻 **Iniciándome en Java, TypeScript, Kotlin, Maven, JUnit 5, HTML, CSS, MarkDown, Git, GitKraken, GitHub, virtualización, Maven, Gradle y MySql.**
+- 💻 **Iniciándome en Java, TypeScript, Kotlin, JUnit 5, HTML, CSS, MarkDown, Plant Uml, Git, GitKraken, GitHub, virtualización, Maven, Gradle y MySql.**
 - 👨‍🎓 Aprendiendo programación de mi tutor https://github.com/joseluisgs
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=frantoribio&label=Profile%20views&color=42b983&style=flat" alt="frantoribio" />

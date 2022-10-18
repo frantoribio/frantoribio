@@ -8,7 +8,7 @@
 - ⚒  **Técnico Superior en Administración y Finanzas** formándome en desarrollo de software.
 - 👷‍♂️ Trabajé muchos años de carpintero de aluminio, otros tantos de gestor de microcréditos.
 - 🔭 Aficionado a los deportes del motor, los mercados financieros y las nuevas tecnologías.
-- 💻 **Iniciándome en Java, JavaScript, TypeScript, Kotlin, JUnit 5, Mockito, HTML, CSS, MarkDown, PlantUML, Linux, Git, GitKraken, GitHub, virtualización, Maven, Gradle, Postgresql, MySql y Odoo.**
+- 💻 **Iniciándome en Java, JavaScript, TypeScript, Kotlin, JUnit 5, Mockito, HTML, CSS, MarkDown, PlantUML, Linux, Git, GitKraken, GitHub, virtualización, Maven, Gradle, Postgresql, MySql, Docker y Odoo.**
 - 📚 Incorporando a mi código arquitecturas y patrones de diseño. Principios SOLID. Saltando de Programación Imperativa a Programación Funcional con Lambdas.
 - 👨‍🎓 Aprendiendo programación https://github.com/joseluisgs
 <p align="center"> 
@@ -46,4 +46,7 @@
   height="45">
   <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" 
   height="45">
- 
+  <img loading="lazy" src="https://logodownload.org/wp-content/uploads/2015/05/android-logo-7-1.png" 
+  height="45">
+  <img loading="lazy" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" 
+  height="45">

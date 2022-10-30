@@ -10,7 +10,7 @@
 - 🔭 Aficionado a los deportes del motor, los mercados financieros y las nuevas tecnologías.
 - 💻 **Iniciándome en Java, JavaScript, TypeScript, Kotlin, JUnit 5, Mockito, HTML, CSS, MarkDown, PlantUML, Linux, Git, GitKraken, GitHub, virtualización, Maven, Gradle, Postgresql, MySql, Docker y Odoo.**
 - 📚 Incorporando a mi código arquitecturas y patrones de diseño. Principios SOLID. Saltando de Programación Imperativa a Programación Funcional con Lambdas.
-- 👨‍🎓 Aprendiendo programación https://github.com/joseluisgs
+
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=frantoribio&label=Profile%20views&color=42b983&style=flat" alt="frantoribio" />
 </p>

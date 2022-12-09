@@ -9,8 +9,8 @@
 - ⚒  **Técnico Superior en Administración y Finanzas** formándome en desarrollo de software.
 - 👷‍♂️ Trabajé muchos años de carpintero de aluminio, otros tantos de gestor de microcréditos.
 - 🔭 Aficionado a los deportes del motor, los mercados financieros y las nuevas tecnologías.
-- 💻 **Iniciándome en Java, JavaScript, TypeScript, Kotlin, Swing, JavaFX, Dart, Android, Spring, Flutter, JUnit 5, Mockito, HTML, CSS, MarkDown, PlantUML, Linux, Git, GitKraken, GitHub, virtualización, SSH, Maven, Gradle, Postgresql, MySql, Hibernate, JPA, MongoDB, Docker, PowerBI y Odoo.**
-- 📚 Incorporando a mi código arquitecturas y patrones de diseño. Principios SOLID. Saltando de Programación Imperativa a Programación Funcional con Lambdas.
+- 💻 **Sigo aprendiendo Java, JavaScript, TypeScript, Kotlin, Swing, JavaFX, Dart, Android, Spring, Flutter, React, JUnit 5, Mockito, HTML, CSS, MarkDown, PlantUML, Linux, Git, GitKraken, GitHub, virtualización, SSH, Maven, Gradle, Postgresql, MySql, Hibernate, JPA, MongoDB, Docker, PowerBI, Odoo...**
+- 📚 Incorporando al código **arquitecturas y patrones de diseño. Principios SOLID**. Saltando de Programación Imperativa a Programación Funcional.
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=frantoribio&label=Profile%20views&color=42b983&style=flat" alt="frantoribio" />

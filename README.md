@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:frantoribiorespaldo@gmail.com)](mailto:frantoribiorespaldo@gmail.com)
 
 - ✒ Soy *Francisco Toribio Respaldo*, estudio **Desarrollo de Aplicaciones Multiplataforma ->
-{ "I´m a Cross Platform App Developer" }.**
+{ ºvº }.**
 - ⚒  **Técnico Superior en Administración y Finanzas** formándome en desarrollo de software.
 - 👷‍♂️ Trabajé muchos años de carpintero de aluminio, otros tantos de gestor de microcréditos.
 - 🔭 Aficionado a los deportes del motor, los mercados financieros y las nuevas tecnologías.

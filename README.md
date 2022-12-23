@@ -1,6 +1,6 @@
 # Hola 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/frantoribioresp?color=d83a7c&logoColor=d83a7c&style=flat-square&logo=Twitter)](https://twitter.com/frantoribioresp)
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://kediwww.linn.com/in/francisco-toribio-respaldo/)](https://www.linkedin.com/in/francisco-toribio-respaldo/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:frantoribiorespaldo@gmail.com)](mailto:frantoribiorespaldo@gmail.com)
 

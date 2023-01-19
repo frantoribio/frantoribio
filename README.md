@@ -13,7 +13,7 @@
 
 
 
-- 💻 Aprendiendo:
+- 💻 Curioseando:
 
 <h4>Java, JavaScript, TypeScript, Kotlin, Swing, JavaFX, Dart, Android, Spring, Flutter, React, JUnit 5, Mockito, HTML, CSS, MarkDown, PlantUML, Linux, Git, GitKraken, GitHub, virtualización, SSH, Maven, Gradle, Postgresql, MySql, Hibernate, JPA, MongoDB, Docker, PowerBI, Odoo... 
 </h4>

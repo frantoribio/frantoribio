@@ -4,8 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://kediwww.linn.com/in/francisco-toribio-respaldo/)](https://www.linkedin.com/in/francisco-toribio-respaldo/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:frantoribiorespaldo@gmail.com)](mailto:frantoribiorespaldo@gmail.com)
 
-- ✒ Soy *Francisco Toribio Respaldo*, estudio **Desarrollo de Aplicaciones Multiplataforma ->
-{ ºvº }.**
+- ✒ Soy *Francisco Toribio Respaldo*, estudio **Desarrollo de Aplicaciones Multiplataforma.**
 - ⚒  **Técnico Superior en Administración y Finanzas** formándome en desarrollo de software.
 - 👷‍♂️ Trabajé muchos años de carpintero de aluminio, otros tantos de gestor de microcréditos.
 - 🔭 Aficionado a los deportes del motor, los mercados financieros y las nuevas tecnologías.
@@ -16,7 +15,8 @@
 
 - 💻 Aprendiendo:
 
-<< Java, JavaScript, TypeScript, Kotlin, Swing, JavaFX, Dart, Android, Spring, Flutter, React, JUnit 5, Mockito, HTML, CSS, MarkDown, PlantUML, Linux, Git, GitKraken, GitHub, virtualización, SSH, Maven, Gradle, Postgresql, MySql, Hibernate, JPA, MongoDB, Docker, PowerBI, Odoo... >>
+<h4>Java, JavaScript, TypeScript, Kotlin, Swing, JavaFX, Dart, Android, Spring, Flutter, React, JUnit 5, Mockito, HTML, CSS, MarkDown, PlantUML, Linux, Git, GitKraken, GitHub, virtualización, SSH, Maven, Gradle, Postgresql, MySql, Hibernate, JPA, MongoDB, Docker, PowerBI, Odoo... 
+</h4>
 
 
 <p align="center"> 

@@ -16,10 +16,6 @@
   <img src="https://komarev.com/ghpvc/?username=frantoribio&label=Profile%20views&color=42b983&style=flat" alt="frantoribio" />
 </p>
 
-![frantoribio's github stats](https://github-readme-stats.vercel.app/api?username=frantoribio&count_private=true)
-
-</p>
-
 ## <h2 align="center">Herramientas </h2>
 
 <p align="center">

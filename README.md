@@ -9,7 +9,7 @@
 - ⚒  **Técnico Superior en Administración y Finanzas** formándome en desarrollo de software.
 - 👷‍♂️ Trabajé muchos años de carpintero de aluminio, otros tantos de gestor de microcréditos.
 - 🔭 Aficionado a los deportes del motor, los mercados financieros y las nuevas tecnologías.
-- 📚 Incorporando al código **patrones de diseño. Principios SOLID**. 
+- 📚 Incorporando al código **patrones de diseño, principios SOLID, API REST Y GraphQL**. 
 - ![diana (2)](https://user-images.githubusercontent.com/90746957/213532701-4e922c88-ac54-43be-afb7-fea9a4ab64c8.png)  Próximo objetivo: **Arquitecturas en la nube.**
 
 

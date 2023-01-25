@@ -10,6 +10,8 @@
 - 🔭 Aficionado a los deportes del motor, los mercados financieros y las nuevas tecnologías.
 - 📚 Incorporando al código **patrones de diseño, principios SOLID, API REST Y GraphQL**. 
 - ![diana (2)](https://user-images.githubusercontent.com/90746957/213532701-4e922c88-ac54-43be-afb7-fea9a4ab64c8.png)  Próximo objetivo: **Arquitecturas en la nube.**
+- <img loading="lazy" src="https://www.enperezzeledon.com/wp-content/uploads/2019/10/1200px-Kotlin-logo.svg_.png" 
+  height="16"> **Actualmente Kotlin es el lenguaje de programación que más uso.**
 
 
 

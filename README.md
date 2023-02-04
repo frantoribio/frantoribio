@@ -17,6 +17,7 @@
   height="16"> **Java** y ![python_104451 (1)](https://user-images.githubusercontent.com/90746957/216758297-7754bd13-ad9c-42ca-a976-1c4af1bc88d5.png)**Python** son los lenguajes que más uso.
 
 - 🍺 Cerveza ☕ Café y 😴 Buen sueño **es lo que quierOh**.
+- 😁 Devorador de tutoriales y chuletones.
 
 
 

@@ -8,7 +8,7 @@
 
 - ✒ Soy *Francisco Toribio Respaldo*, estudié **Desarrollo de Aplicaciones Multiplataforma.** ✔
 - ⚒  **Técnico Superior en Administración y Finanzas,** trabajando y formándome en **desarrollo de software.** ✔
-- 👷‍♂️ Fuí responsable de equipo en seguridad, muchos años carpintero de aluminio y otros tantos gestor de microcréditos. ✔
+- 👷‍♂️ Fui responsable de equipo en seguridad, muchos años carpintero de aluminio y otros tantos gestor de microcréditos. ✔
 - 🔭 Aficionado a los deportes del motor, los mercados financieros y las nuevas tecnologías. ✔
 - 📚 Incorporando al código **reactividad, patrones de diseño, principios SOLID, API REST y GraphQL**. ✔
 -   ![diana (2)](https://user-images.githubusercontent.com/90746957/213532701-4e922c88-ac54-43be-afb7-fea9a4ab64c8.png)   Próximo objetivo: **Arquitecturas en la nube.** ✔

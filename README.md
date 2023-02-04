@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋</h1>
-<h2 align="center">I'm a 😂DeveloperOh😂 </h2>
+<h1 align="center">Hi 👋.</h1>
+<h2 align="center">I'm a 😂DeveloperOh😂. </h2>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://kediwww.linn.com/in/francisco-toribio-respaldo/)](https://www.linkedin.com/in/francisco-toribio-respaldo/)
@@ -29,7 +29,7 @@
   <img src="https://komarev.com/ghpvc/?username=frantoribio&label=Profile%20views&color=42b983&style=flat" alt="frantoribio" />
 </p>
 
-## <h2 align="center">Herramientas </h2>
+## <h2 align="center">Herramientas: </h2>
 
 <p align="center">
  <img loading="lazy" src="https://distreau.com/github.svg" 

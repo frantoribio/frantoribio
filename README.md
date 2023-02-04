@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋.</h1>
-<h2 align="center">I'm a 😂DeveloperOh😂 == Ctrl + c -> Ctrl + v.</h2>
+<h1 align="center">Hola 👋</h1>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://kediwww.linn.com/in/francisco-toribio-respaldo/)](https://www.linkedin.com/in/francisco-toribio-respaldo/)
@@ -16,9 +15,7 @@
 -    <img loading="lazy" src="https://www.enperezzeledon.com/wp-content/uploads/2019/10/1200px-Kotlin-logo.svg_.png" 
   height="16">  **Kotlin**, <img loading="lazy" src="https://www.sommelierdecafe.com/2019/wp-content/uploads/2009/06/java-logo1-1.png" 
   height="16"> **Java** y ![python_104451 (1)](https://user-images.githubusercontent.com/90746957/216758297-7754bd13-ad9c-42ca-a976-1c4af1bc88d5.png)**Python** son los lenguajes que más uso. ✔
-- 😁 Devorador de tutoriales, libros, jamones y chuletones. ✔
-- 🍺 Cerveza, ☕ Café, 🍦 Helado y 😴 Buen sueño **es lo que quierOh**. *Happiness*. ✔
-- 🥰 *Silvia y Olivia son mi pasión.* ✔
+- 😁 Devorador de tutoriales y libros. ✔
 
 
 

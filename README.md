@@ -16,15 +16,15 @@
   height="16">  **Kotlin**, <img loading="lazy" src="https://www.sommelierdecafe.com/2019/wp-content/uploads/2009/06/java-logo1-1.png" 
   height="16"> **Java** y ![python_104451 (1)](https://user-images.githubusercontent.com/90746957/216758297-7754bd13-ad9c-42ca-a976-1c4af1bc88d5.png)**Python** son los lenguajes que más uso. ✔
 
-- 🍺 Cerveza ☕ Café y 😴 Buen sueño **es lo que quierOh**. *Happiness*. ✔
+- 🍺 Cerveza, ☕ Café y 😴 Buen sueño **es lo que quierOh**. *Happiness*. ✔
 - 😁 Devorador de tutoriales, libros y chuletones. ✔
-- 🥰 Silvia y Olivia son mi pasión.
+- 🥰 Silvia y Olivia son mi pasión. ✔
 
 
 
 - 💻 Curioseando:
 
-<h4>Java, JavaScript, TypeScript, Kotlin, Swing, JavaFX, Dart, Android, Spring, Flutter, React, JUnit 5, Mockito, HTML, CSS, MarkDown, PlantUML, Linux, Git, GitKraken, GitHub, virtualización, SSH, Maven, Gradle, Postgresql, MySql, Hibernate, JPA, MongoDB, Docker, PowerBI, Odoo... 
+<h4>Java, JavaScript, TypeScript, Kotlin, Swing, JavaFX, Dart, Android, Spring, Flutter, React, JUnit 5, Mockito, HTML, CSS, MarkDown, PlantUML, Linux, Git, GitKraken, GitHub, virtualización, SSH, Maven, Gradle, Postgresql, MySql, Hibernate, JPA, MongoDB, Docker, PowerBI, Odoo... ✔ 
 </h4>
 
 <p align="center"> 

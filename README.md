@@ -5,6 +5,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://kediwww.linn.com/in/francisco-toribio-respaldo/)](https://www.linkedin.com/in/francisco-toribio-respaldo/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:frantoribiorespaldo@gmail.com)](mailto:frantoribiorespaldo@gmail.com)
 
+   ![image](https://user-images.githubusercontent.com/90746957/216761601-7c282dfa-b5ae-4c0f-9f03-17d48f0fbb8c.png)
+
+
 
 - ✒ Soy *Francisco Toribio Respaldo*, estudié **Desarrollo de Aplicaciones Multiplataforma.** ✔
 - ⚒  **Técnico Superior en Administración y Finanzas,** trabajando y formándome en **desarrollo de software.** ✔

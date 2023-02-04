@@ -18,6 +18,7 @@
 
 - 🍺 Cerveza ☕ Café y 😴 Buen sueño **es lo que quierOh**. *Happiness*. ✔
 - 😁 Devorador de tutoriales, libros y chuletones. ✔
+- 🥰 Silvia y Olivia son mi pasión.
 
 
 

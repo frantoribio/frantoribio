@@ -10,7 +10,7 @@
 - ⚒  **Técnico Superior en Administración y Finanzas** formándome en desarrollo de software.
 - 👷‍♂️ Trabajé muchos años de carpintero de aluminio, otros tantos de gestor de microcréditos.
 - 🔭 Aficionado a los deportes del motor, los mercados financieros y las nuevas tecnologías.
-- 📚 Incorporando al código **patrones de diseño, principios SOLID, API REST Y GraphQL**. 
+- 📚 Incorporando al código **reactividad, patrones de diseño, principios SOLID, API REST y GraphQL**. 
 -   ![diana (2)](https://user-images.githubusercontent.com/90746957/213532701-4e922c88-ac54-43be-afb7-fea9a4ab64c8.png)   Próximo objetivo: **Arquitecturas en la nube.**
 -    <img loading="lazy" src="https://www.enperezzeledon.com/wp-content/uploads/2019/10/1200px-Kotlin-logo.svg_.png" 
   height="16">  **Kotlin**, <img loading="lazy" src="https://www.sommelierdecafe.com/2019/wp-content/uploads/2009/06/java-logo1-1.png" 

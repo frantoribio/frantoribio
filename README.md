@@ -11,11 +11,11 @@
 - 👷‍♂️ Fui responsable de equipo en seguridad, muchos años carpintero de aluminio y otros tantos gestor de microcréditos. ✔
 - 🔭 Aficionado a los deportes del motor, los mercados financieros y las nuevas tecnologías. ✔
 - 📚 Incorporando al código **reactividad, patrones de diseño, principios SOLID, API REST y GraphQL**. ✔
--   ![diana (2)](https://user-images.githubusercontent.com/90746957/213532701-4e922c88-ac54-43be-afb7-fea9a4ab64c8.png)   Próximo objetivo: **Arquitecturas en la nube.** ✔
+-   ![diana (2)](https://user-images.githubusercontent.com/90746957/213532701-4e922c88-ac54-43be-afb7-fea9a4ab64c8.png)   Próximos objetivos: **Arquitecturas en la nube y análisis de datos.** ✔
 -    <img loading="lazy" src="https://www.enperezzeledon.com/wp-content/uploads/2019/10/1200px-Kotlin-logo.svg_.png" 
   height="16">  **Kotlin**, <img loading="lazy" src="https://www.sommelierdecafe.com/2019/wp-content/uploads/2009/06/java-logo1-1.png" 
   height="16"> **Java** y ![python_104451 (1)](https://user-images.githubusercontent.com/90746957/216758297-7754bd13-ad9c-42ca-a976-1c4af1bc88d5.png)**Python** son los lenguajes que más uso. ✔
-- 😁 Devorador de tutoriales y libros. ✔
+- 😁 Devorador de repos, tutoriales y libros. ✔
 
 
 

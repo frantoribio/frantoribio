@@ -9,10 +9,9 @@
 - ✒ Soy *Francisco Toribio Respaldo*, estudié **Desarrollo de Aplicaciones Multiplataforma.** ✔
 - ⚒  **Técnico Superior en Administración y Finanzas, aprendiendo a desarrollar software.** ✔
 - 🔭 Aficionado a los deportes del motor, los mercados financieros y las nuevas tecnologías. ✔
--   ![diana (2)](https://user-images.githubusercontent.com/90746957/213532701-4e922c88-ac54-43be-afb7-fea9a4ab64c8.png)  Objetivos a cortor plazo: **Arquitecturas en la nube y análisis de datos.** ✔
--    <img loading="lazy" src="https://www.enperezzeledon.com/wp-content/uploads/2019/10/1200px-Kotlin-logo.svg_.png" 
-  height="16">   **Kotlin, Java, Python y Dart** son los lenguajes que más uso. ✔
+- 🎯 Objetivos a cortor plazo: **Arquitecturas en la nube y análisis de datos.** ✔
 - 😁 Devorador de repos, tutoriales y libros. ✔
+- **Kotlin, Java, Python y Dart** son los lenguajes que más uso. ✔
 
 
 

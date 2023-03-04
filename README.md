@@ -50,6 +50,9 @@
   height="45">
   <img loading="lazy" src="https://user-images.githubusercontent.com/90746957/216758394-0438d8f9-7eb6-4cf0-a659-a2d9de0eed51.png"
   height="45">
+  <img loading="lazy" src="https://user-images.githubusercontent.com/90746957/222894364-cc1dc837-84e7-4aa5-b18a-2b9bc539fe24.png"
+  height="45">     
+
    
   <h2 align="center">Gracias por la visita.</h2>
     

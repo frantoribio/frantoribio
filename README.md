@@ -11,7 +11,7 @@
 - 🔭 Aficionado a los deportes del motor, los mercados financieros y las nuevas tecnologías. ✔
 - 🎯 Objetivos a cortor plazo: **Arquitecturas en la nube y análisis de datos.** ✔
 - 😁 Devorador de repos, tutoriales y libros. ✔
-- **Kotlin, Java, Python, C# y Dart** son los lenguajes que más uso. ✔
+- Lenguajes utilizados: **Kotlin, Java, Python, C# y Dart**. ✔
 
 
 

@@ -20,7 +20,7 @@ Si crees que en 4 horas puedes hacer algo de calidad... o vomitas mierda... o ha
 
 
    
-  <h2 align="center">Gracias por la visita, sé feliz.</h2>
+  <h2 align="center">Gracias por la visita y sé feliz 🎵</h2>
     
 
 

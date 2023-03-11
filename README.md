@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋</h1>
+<h1>Hola 👋</h1>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://kediwww.linn.com/in/francisco-toribio-respaldo/)](https://www.linkedin.com/in/francisco-toribio-respaldo/)

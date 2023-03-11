@@ -10,7 +10,7 @@
 - ⚒  **Técnico Superior en Administración y Finanzas, aprendiendo desarrollo de software.** ✔
 - 🔭 Aficionado a los deportes del motor, los mercados financieros y las nuevas tecnologías. ✔
 - 🎯 Objetivos a cortor plazo: **Arquitecturas en la nube y análisis de datos.** ✔
-- 😁 Devorador de repos, cocumentación y libros.  ✔
+- 😁 Devorador de repos, documentación y libros.  ✔
 - **... Kotlin, Java, Python, C#, Dart ...**. ✔
 
 Si crees que en 4 horas puedes hacer algo de calidad... o vomitas mierda... o haces trampas.

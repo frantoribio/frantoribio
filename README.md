@@ -13,6 +13,8 @@
 - 😁 Devorador de repos, tutoriales y libros. ✔
 - Lenguajes utilizados: **Kotlin, Java, Python, C# y Dart**. ✔
 
+Si crees que en 4 horas puedes hacer algo de calidad... o vomitas mierda... o haces trampas.
+
 
 
 

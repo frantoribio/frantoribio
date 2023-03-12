@@ -15,7 +15,7 @@
 - 😁 Devorador de repos, documentación y libros.  ✔
 - **... Kotlin, Java, Python, C#, Dart ...**. ✔
 
-Si crees que en 4 horas puedes hacer algo de calidad... o vomitas mierda... o haces trampas.
+Si crees que en 4 horas puedes hacer algo de calidad... o vomitas copias... o haces trampas.
 
 
 

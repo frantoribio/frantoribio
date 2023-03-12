@@ -12,7 +12,7 @@
 
 ✔ ⚒  **Técnico Superior en Administración y Finanzas, aprendiendo desarrollo de software.** 
 
-✔ 🔭 Aficionado a los deportes del motor, los mercados financieros y las nuevas tecnologías. 
+✔ 🔭 Aficionado a los deportes del motor y los mercados financieros. 
 
 ✔ 🎯 Objetivos a cortor plazo: **Arquitecturas en la nube y análisis de datos.** 
 

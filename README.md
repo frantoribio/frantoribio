@@ -20,7 +20,6 @@
 
 **... Kotlin, Java, Python, C#, Dart, Js, html, css ...**. 
 
-Si crees que en 4 horas puedes hacer algo de calidad... o vomitas copias... o haces trampas.
 
 
 

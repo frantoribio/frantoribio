@@ -18,7 +18,7 @@
 
 ✔ 😁 Devorador de repos, documentación y libros.  
 
-**... Kotlin, Java, Python, C#, Dart, Js, html, css ...**. 
+**... Kotlin, Java, Python, C#, Dart, Js, html, css, sql, noSQL ...**. 
 
 
 

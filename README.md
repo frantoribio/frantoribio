@@ -10,20 +10,13 @@
 
 ✔ ✒ Soy *Francisco Toribio Respaldo*, estudié **Desarrollo de Aplicaciones Multiplataforma.** 
 
-✔ ⚒  **Técnico Superior en Administración y Finanzas, desarrollando software.** 
-
-✔ 🔭 Aficionado a los deportes de motor y los mercados financieros. 
+✔ ⚒  **Técnico Superior en Administración y Finanzas, desarrollando software.**  
 
 ✔ 🎯 Objetivos a cortor plazo: **Arquitecturas en la nube y análisis de datos.** 
 
+✔ 🔭 Aficionado a los deportes de motor y los mercados financieros.
+
 ✔ 😁 Devorador de repos, documentación y libros.  
-
-**... Kotlin, Java, Python, C#, Dart, Js, html, css, sql, noSQL ...**. 
-
-
-
-
-
 
    
   <h2 align="center">Gracias por la visita y sé feliz 🎵</h2>

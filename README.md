@@ -19,7 +19,7 @@
 ✔ 😁 Devorador de repos, documentación y libros.  
 
    
-  <h2 align="center">Gracias por la visita y sé feliz 🎵</h2>
+  <h2 align="center">Gracias por la visita.</h2>
     
 
 

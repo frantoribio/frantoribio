@@ -8,7 +8,7 @@
 
 
 
-✔ ✒ Soy *Francisco Toribio Respaldo*, estudié **Desarrollo de Aplicaciones Multiplataforma.** 
+✔ ✒ Soy *Francisco Toribio Respaldo*, estudié **Desarrollo de Aplicaciones Multiplataforma/Web.** 
 
 ✔ ⚒  **Técnico Superior en Administración y Finanzas.**  
 

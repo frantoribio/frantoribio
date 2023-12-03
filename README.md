@@ -1,4 +1,4 @@
-<h1>Hola 👋</h1>
+<h1>Hola</h1>
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:frantoribiorespaldo@gmail.com)](mailto:frantoribiorespaldo@gmail.com)
 
